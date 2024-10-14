@@ -1,0 +1,1 @@
+Projeto de cronômetro digital em Verilog, implementado para a placa S-board Pitanga. O sistema exibe horas, minutos e segundos em displays de 7 segmentos e permite ajustes manuais através de botões, com estados de operação para ajuste de tempo e contagem regressiva.
