@@ -1,0 +1,58 @@
+clk = clk_1hz;
+reset = sw0;
+
+SW3=sw3;
+
+
+botao0= btn0;
+botao1= btn1;
+botao2= btn2;
+
+estado1=led9;
+estado2=led8;
+estado3=led7;
+estado4=led6;
+
+seg_hora_d[0] = segd3.a_on;
+seg_hora_d[1] = segd3.b_on;
+seg_hora_d[2] = segd3.c_on;
+seg_hora_d[3] = segd3.d_on;
+seg_hora_d[4] = segd3.e_on;
+seg_hora_d[5] = segd3.f_on;
+seg_hora_d[6] = segd3.g_on;
+
+seg_hora_u[0] = segd2.a_on;
+seg_hora_u[1] = segd2.b_on;
+seg_hora_u[2] = segd2.c_on;
+seg_hora_u[3] = segd2.d_on;
+seg_hora_u[4] = segd2.e_on;
+seg_hora_u[5] = segd2.f_on;
+seg_hora_u[6] = segd2.g_on;
+seg_hora_u[7] = segd2.dp_on;
+
+seg_minuto_d[0] = segd1.a_on;
+seg_minuto_d[1] = segd1.b_on;
+seg_minuto_d[2] = segd1.c_on;
+seg_minuto_d[3] = segd1.d_on;
+seg_minuto_d[4] = segd1.e_on;
+seg_minuto_d[5] = segd1.f_on;
+seg_minuto_d[6] = segd1.g_on;
+
+seg_minuto_u[0] = segd0.a_on;
+seg_minuto_u[1] = segd0.b_on;
+seg_minuto_u[2] = segd0.c_on;
+seg_minuto_u[3] = segd0.d_on;
+seg_minuto_u[4] = segd0.e_on;
+seg_minuto_u[5] = segd0.f_on;
+seg_minuto_u[6] = segd0.g_on;
+
+leds_segundos[0] = led0;
+leds_segundos[1] = led1;
+leds_segundos[2] = led2;
+leds_segundos[3] = led3;
+leds_segundos[4] = led4;
+leds_segundos[5] = led5;
+leds_segundos[6] = led6;
+leds_segundos[7] = led7;
+leds_segundos[8] = led8;
+leds_segundos[9] = led9;
